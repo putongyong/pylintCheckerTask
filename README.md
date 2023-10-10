@@ -31,11 +31,10 @@ The **Names To Avoid Checker** is a more complex checker that enforces a coding 
 
 ### Usage
 The rule from PEP 8 is as follows:
+![alt text](https://github.com/putongyong/pylintCheckerTask/blob/main/media/PEP8_rule.png)
 
 ### Names to Avoid:
 Never use the characters ‘l’ (lowercase letter el), ‘O’ (uppercase letter oh), or ‘I’ (uppercase letter eye) as single-character variable names. In some fonts, these characters are indistinguishable from the numerals one and zero. When tempted to use ‘l’, use ‘L’ instead.
-
-![alt text](https://github.com/putongyong/pylintCheckerTask/blob/main/media/PEP8_rule.png)
 
 The **Names To Avoid Checker** is capable of checking variables in various contexts:
 
