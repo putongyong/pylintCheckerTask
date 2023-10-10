@@ -8,8 +8,14 @@ The **Too Long Function Name Checker** is a straightforward checker designed to 
 
 ### Usage
 Here's an example of how the checker works:
-```python
-testing
+```
+def testing():
+    test1=1
+    return test1 
+
+def testingtoolongnamefunction():
+    test2=2
+    return test2 
 ```
 
 ![alt text](https://github.com/putongyong/pylintCheckerTask/blob/main/media/too_long_function_name_test.png)
