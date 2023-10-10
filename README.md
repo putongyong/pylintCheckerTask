@@ -31,7 +31,8 @@ The **Names To Avoid Checker** is capable of checking variables in various conte
 - Variables inside functions
 - Variables inside classes
 - Variables inside class methods
-Example
+- 
+### Example
 Here are some examples of how the checker operates:
 
 - Checks variables inside a function:
