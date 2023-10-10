@@ -8,6 +8,9 @@ The **Too Long Function Name Checker** is a straightforward checker designed to 
 
 ### Usage
 Here's an example of how the checker works:
+```
+testing
+```
 
 ![alt text](https://github.com/putongyong/pylintCheckerTask/blob/main/media/too_long_function_name_test.png)
 
@@ -31,7 +34,7 @@ The **Names To Avoid Checker** is capable of checking variables in various conte
 - Variables inside functions
 - Variables inside classes
 - Variables inside class methods
-- 
+
 ### Example
 Here are some examples of how the checker operates:
 
