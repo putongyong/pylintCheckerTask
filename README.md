@@ -1,6 +1,6 @@
 # pylintCheckerTask
 
-##This project implements custom checkers for Pylint to enhance code quality analysis. It includes two checkers, each serving a specific purpose.
+## This project implements custom checkers for Pylint to enhance code quality analysis. It includes two checkers, each serving a specific purpose.
 
 1. Too Long Function Name Checker
 Overview
