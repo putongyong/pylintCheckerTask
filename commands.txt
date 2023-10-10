@@ -1,0 +1,10 @@
+export PYTHONPATH=/Users/yongxie/Desktop/pylintCheckerTask/
+echo $PYTHONPATH
+
+
+PYTHONPATH=. pylint --load-plugins=too_long_function_name test1.py
+PYTHONPATH=. pylint --load-plugins=too_long_function_name --disable=all --enable=non-unique-returns test1.py
+
+
+PYTHONPATH=. pylint --load-plugins=names_to_avoid test2.py
+PYTHONPATH=. pylint --load-plugins=names_to_avoid --disable=all --enable=non-unique-returns test2.py
