@@ -8,7 +8,7 @@ The **Too Long Function Name Checker** is a straightforward checker designed to 
 
 ### Usage
 Here's an example of how the checker works:
-```
+```python
 testing
 ```
 
