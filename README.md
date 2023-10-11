@@ -134,7 +134,6 @@ test_instance = test_function()
 Here's the result:
 ![alt text](https://github.com/putongyong/pylintCheckerTask/blob/main/media/names_to_avoid_test_all.png)
 
-Remember to configure the maximum length for function names in the "Too Long Function Name Checker" and ensure your code adheres to the PEP 8 rule for variable names.
 
 ## Getting Started
 To run Pylint with these custom checkers, export the PYTHONPATH to include the current project path:
@@ -143,5 +142,3 @@ export PYTHONPATH=../pylintCheckerTask/
 echo $PYTHONPATH
 ```
 You can find useful commands in the commands.txt file. Feel free to run the provided tests to verify the checker's functionality.
-
-For any questions or issues, please don't hesitate to contact the project maintainers. We appreciate your contributions and feedback!
