@@ -5,6 +5,8 @@ Pylint is a static code analyser for Python 2 or 3. The latest version supports 
 
 Pylint analyses your code without actually running it. It checks for errors, enforces a coding standard, looks for code smells, and can make suggestions about how the code could be refactored.
 
+Here's the link to official documentation: https://pylint.pycqa.org/en/latest/index.html
+
 This project implements custom checkers for Pylint to enhance code quality analysis. It includes two checkers, each serving a specific purpose.
 
 ## 1. Too Long Function Name Checker
